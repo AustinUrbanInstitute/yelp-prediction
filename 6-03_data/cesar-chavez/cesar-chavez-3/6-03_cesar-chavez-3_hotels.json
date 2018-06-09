@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "FajvnPYI8eVkr4tJaXlT8Q",
+            "alias": "willow-house-austin",
+            "name": "Willow House",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/willow-house-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "guesthouses",
+                    "title": "Guest Houses"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.255234,
+                "longitude": -97.721302
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2114 Willow St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2114 Willow St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 106.43616367694925
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.721698,
+            "latitude": 30.256128
+        }
+    }
+}

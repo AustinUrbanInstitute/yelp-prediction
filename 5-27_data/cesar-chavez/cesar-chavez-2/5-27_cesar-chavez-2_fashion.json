@@ -1,0 +1,144 @@
+{
+    "businesses": [
+        {
+            "id": "cq5DTL0nBakSAaGfG9wjBw",
+            "alias": "solid-gold-austin",
+            "name": "Solid Gold",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rKyvCHu25GaNQLIjKQndyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/solid-gold-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                },
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2618692,
+                "longitude": -97.7267939
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1601 E 5th St",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1601 E 5th St",
+                    "Ste 102",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15124732730",
+            "display_phone": "(512) 473-2730",
+            "distance": 455.81099141613066
+        },
+        {
+            "id": "P-mi3dJjpgW6ccUaO9Dn-A",
+            "alias": "sin-and-style-austin",
+            "name": "Sin&Style",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sin-and-style-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                },
+                {
+                    "alias": "jewelry",
+                    "title": "Jewelry"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.25839,
+                "longitude": -97.72871
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1601 Cesar Chavez",
+                "address2": "Ste 106",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1601 Cesar Chavez",
+                    "Ste 106",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15122848287",
+            "display_phone": "(512) 284-8287",
+            "distance": 181.51940295655066
+        },
+        {
+            "id": "OQ1hz9I_09DiXamtQrCicA",
+            "alias": "busy-being-austin",
+            "name": "Busy-Being",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AjnGJC79tn_BMFypu_hrGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/busy-being-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                },
+                {
+                    "alias": "artsandcrafts",
+                    "title": "Arts & Crafts"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.26171,
+                "longitude": -97.72655
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1601 E 5th St",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1601 E 5th St",
+                    "Ste 102",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15128794742",
+            "display_phone": "(512) 879-4742",
+            "distance": 435.1726609922596
+        }
+    ],
+    "total": 3,
+    "region": {
+        "center": {
+            "longitude": -97.726584,
+            "latitude": 30.257774
+        }
+    }
+}

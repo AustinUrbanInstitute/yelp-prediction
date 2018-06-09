@@ -1,0 +1,91 @@
+{
+    "businesses": [
+        {
+            "id": "fS-i_CTngZbrc1H0lunz3w",
+            "alias": "spincycle-coin-laundry-austin-5",
+            "name": "Spincycle Coin Laundry",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-bvURuOwMogqW6AQtHjvyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spincycle-coin-laundry-austin-5?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "laundromat",
+                    "title": "Laundromat"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.36625,
+                "longitude": -97.69459
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9717 N Lamar Blvd",
+                "address2": "Ste A4B",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9717 N Lamar Blvd",
+                    "Ste A4B",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15123398554",
+            "display_phone": "(512) 339-8554",
+            "distance": 94.61588964588302
+        },
+        {
+            "id": "5Y3vI3wG55GdpBAG_Te7UA",
+            "alias": "star-brite-cleaners-austin-17",
+            "name": "Star Brite Cleaners",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B6q6Ct94gkHWYq52ItPoJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/star-brite-cleaners-austin-17?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "sewingalterations",
+                    "title": "Sewing & Alterations"
+                },
+                {
+                    "alias": "laundryservices",
+                    "title": "Laundry Services"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 30.3641548,
+                "longitude": -97.6942157
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "9515 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9515 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15123399932",
+            "display_phone": "(512) 339-9932",
+            "distance": 336.5458795928824
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.694642,
+            "latitude": 30.367159
+        }
+    }
+}

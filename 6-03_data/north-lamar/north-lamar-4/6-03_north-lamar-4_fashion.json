@@ -1,0 +1,100 @@
+{
+    "businesses": [
+        {
+            "id": "uHo6rbToer1v_sxYeBv-Dg",
+            "alias": "fit-japanese-store-austin-13",
+            "name": "FIT - Japanese Store",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PQkmjQpm-b-74cGmu3QVvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fit-japanese-store-austin-13?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "giftshops",
+                    "title": "Gift Shops"
+                },
+                {
+                    "alias": "stationery",
+                    "title": "Cards & Stationery"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.3776195320665,
+                "longitude": -97.6872885209015
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10901 N Lamar Blvd",
+                "address2": "Ste A111",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10901 N Lamar Blvd",
+                    "Ste A111",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15123873282",
+            "display_phone": "(512) 387-3282",
+            "distance": 185.57348919244302
+        },
+        {
+            "id": "meUd6W42aSAQRO8kBC9TEQ",
+            "alias": "st-vincent-de-paul-thrift-store-austin",
+            "name": "St. Vincent de Paul Thrift Store",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mqEEVnLCaZqvFUcu7x9KkQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-vincent-de-paul-thrift-store-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "vintage",
+                    "title": "Used, Vintage & Consignment"
+                },
+                {
+                    "alias": "thrift_stores",
+                    "title": "Thrift Stores"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.38264,
+                "longitude": -97.68884
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "901 West Braker Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78758",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "901 West Braker Ln",
+                    "Austin, TX 78758"
+                ]
+            },
+            "phone": "+15124425652",
+            "display_phone": "(512) 442-5652",
+            "distance": 370.8629540003116
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.687889,
+            "latitude": 30.379206
+        }
+    }
+}

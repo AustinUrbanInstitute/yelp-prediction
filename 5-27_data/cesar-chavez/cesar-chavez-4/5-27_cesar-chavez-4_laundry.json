@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "UC7gKmzfn45fcSwi4AIlIA",
+            "alias": "franks-coin-laundry-austin",
+            "name": "Frank's Coin Laundry",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/du2H_1VG2sCHVSOUro8_Gw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/franks-coin-laundry-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "laundromat",
+                    "title": "Laundromat"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.2554806321859,
+                "longitude": -97.7200888842344
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2215 E Cesar Chavez St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2215 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15123229213",
+            "display_phone": "(512) 322-9213",
+            "distance": 347.8027491338763
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.716892,
+            "latitude": 30.254386
+        }
+    }
+}

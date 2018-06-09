@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "AZ7pI8KkGT5ekHY3MRqlfA",
+            "alias": "alamo-park-basketball-court-austin",
+            "name": "Alamo Park Basketball Court",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pTp8_MPL39sffDzwt2HHFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alamo-park-basketball-court-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "basketballcourts",
+                    "title": "Basketball Courts"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.2827819,
+                "longitude": -97.7200304
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2150 Alamo St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78722",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2150 Alamo St",
+                    "Austin, TX 78722"
+                ]
+            },
+            "phone": "+15129746792",
+            "display_phone": "(512) 974-6792",
+            "distance": 542.4839079347496
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.723765,
+            "latitude": 30.27922
+        }
+    }
+}

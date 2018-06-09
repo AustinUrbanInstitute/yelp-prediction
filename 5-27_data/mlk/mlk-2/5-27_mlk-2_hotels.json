@@ -1,0 +1,49 @@
+{
+    "businesses": [
+        {
+            "id": "JClIVklKshRFPfk55JJ2_Q",
+            "alias": "ace-motel-austin",
+            "name": "Ace Motel",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OX6YbtfZcr8lCZVgugPKzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ace-motel-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 30.2847518920898,
+                "longitude": -97.7144546508789
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2627 Manor Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78722",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2627 Manor Rd",
+                    "Austin, TX 78722"
+                ]
+            },
+            "phone": "+15124769033",
+            "display_phone": "(512) 476-9033",
+            "distance": 647.945691493914
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.718743,
+            "latitude": 30.280146
+        }
+    }
+}

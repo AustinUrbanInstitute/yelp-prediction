@@ -1,0 +1,86 @@
+{
+    "businesses": [
+        {
+            "id": "CtjVN8qbYYoWRRR4OVC4ew",
+            "alias": "spin-n-kleen-austin",
+            "name": "Spin-N-Kleen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QtBArbQb8hcXY15qyG3qYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spin-n-kleen-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "laundryservices",
+                    "title": "Laundry Services"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.2798625826836,
+                "longitude": -97.7210598438978
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1902 E Mlk Jr Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1902 E Mlk Jr Blvd",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15123910700",
+            "display_phone": "(512) 391-0700",
+            "distance": 258.7312247435978
+        },
+        {
+            "id": "6DurnLfFHdu6KT-T6CxLkQ",
+            "alias": "brite-wash-austin",
+            "name": "Brite Wash",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HElXsKbdgseIPPaZtz_DZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brite-wash-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "laundryservices",
+                    "title": "Laundry Services"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 30.2801,
+                "longitude": -97.72081
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1902 E Martin Luther King Jr Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1902 E Martin Luther King Jr Blvd",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 300.6286807873739
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.723765,
+            "latitude": 30.27922
+        }
+    }
+}

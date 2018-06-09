@@ -1,0 +1,87 @@
+{
+    "businesses": [
+        {
+            "id": "hk8nSU2wRZAnkeUiyknbRw",
+            "alias": "cathys-cleaners-austin-7",
+            "name": "Cathy's Cleaners",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zgup8eg1WwKuCl-86E-4Pw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cathys-cleaners-austin-7?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "laundryservices",
+                    "title": "Laundry Services"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 30.2604484558105,
+                "longitude": -97.7333374023438
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1100 E Cesar Chavez",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1100 E Cesar Chavez",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15123910045",
+            "display_phone": "(512) 391-0045",
+            "distance": 219.27028680556327
+        },
+        {
+            "id": "xvoL6wgpEkvmjZdLEXt_9w",
+            "alias": "austin-cleaners-and-laundry-austin",
+            "name": "Austin Cleaners & Laundry",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/austin-cleaners-and-laundry-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "laundryservices",
+                    "title": "Laundry Services"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 30.2602653503418,
+                "longitude": -97.7328109741211
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1110 E Cesar Chavez St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1110 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15123910045",
+            "display_phone": "(512) 391-0045",
+            "distance": 161.94637996727303
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.731374,
+            "latitude": 30.259449
+        }
+    }
+}

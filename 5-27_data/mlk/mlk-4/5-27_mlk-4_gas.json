@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "LqmUR3CsyV31UYQkuDjHjw",
+            "alias": "shell-austin-18",
+            "name": "Shell",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tutMQxoK5TVv06D7rBRFQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shell-austin-18?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "servicestations",
+                    "title": "Gas Stations"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 30.2855556450842,
+                "longitude": -97.7060931175947
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2204 Airport Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78722",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2204 Airport Blvd",
+                    "Austin, TX 78722"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 472.7277488980903
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.708356,
+            "latitude": 30.28178
+        }
+    }
+}

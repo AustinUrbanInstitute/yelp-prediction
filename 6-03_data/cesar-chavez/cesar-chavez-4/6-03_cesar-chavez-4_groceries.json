@@ -1,0 +1,49 @@
+{
+    "businesses": [
+        {
+            "id": "ClottTOUIGgwZBrY8NOnTg",
+            "alias": "beetnik-foods-austin",
+            "name": "Beetnik Foods",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rlqbZp-LOYdndwSatFfS3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beetnik-foods-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 106,
+            "categories": [
+                {
+                    "alias": "meats",
+                    "title": "Meat Shops"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 30.2540092,
+                "longitude": -97.7151718
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2600 E Cesar Chavez",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2600 E Cesar Chavez",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15125848228",
+            "display_phone": "(512) 584-8228",
+            "distance": 168.1177353354553
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.716892,
+            "latitude": 30.254386
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "businesses": [
+        {
+            "id": "1MIIcQ3H_MQ_ZWxrltkKGQ",
+            "alias": "shell-austin-31",
+            "name": "Shell",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shell-austin-31?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "servicestations",
+                    "title": "Gas Stations"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 30.2796539214362,
+                "longitude": -97.7208670601249
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1901 E Martin Luther King Jr Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1901 E Martin Luther King Jr Blvd",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15124570911",
+            "display_phone": "(512) 457-0911",
+            "distance": 282.42734435310183
+        },
+        {
+            "id": "F8t7S07tY_xPqyZOWjPD6A",
+            "alias": "gulf-gas-station-austin-2",
+            "name": "Gulf Gas Station",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a1le4smauA6FRTy_W5U_aA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gulf-gas-station-austin-2?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "servicestations",
+                    "title": "Gas Stations"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.28398,
+                "longitude": -97.71984
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2101 Manor Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78722",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2101 Manor Rd",
+                    "Austin, TX 78722"
+                ]
+            },
+            "phone": "+15123329214",
+            "display_phone": "(512) 332-9214",
+            "distance": 647.6680477459716
+        },
+        {
+            "id": "3fXayKB8wLP05eO62s8Zjw",
+            "alias": "manor-express-austin",
+            "name": "Manor Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tssvwkgWxExYUifGcTnh7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/manor-express-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "convenience",
+                    "title": "Convenience Stores"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.2839546203613,
+                "longitude": -97.7198333740234
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2101 Manor Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78722",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2101 Manor Rd",
+                    "Austin, TX 78722"
+                ]
+            },
+            "phone": "+15123229214",
+            "display_phone": "(512) 322-9214",
+            "distance": 647.6680477459716
+        }
+    ],
+    "total": 3,
+    "region": {
+        "center": {
+            "longitude": -97.723765,
+            "latitude": 30.27922
+        }
+    }
+}

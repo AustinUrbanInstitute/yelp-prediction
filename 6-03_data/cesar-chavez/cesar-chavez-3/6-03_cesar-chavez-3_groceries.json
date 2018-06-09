@@ -1,0 +1,95 @@
+{
+    "businesses": [
+        {
+            "id": "WcmZ5d4XfkMAJGd1xjJWoQ",
+            "alias": "quickie-pickie-east-cesar-chavez-street-austin",
+            "name": "Quickie Pickie - East Cesar Chavez Street",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a8-J3pmmpbMS1glowlv3FA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quickie-pickie-east-cesar-chavez-street-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.25606,
+                "longitude": -97.72236
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2027 E Cesar Chavez St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2027 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15129921357",
+            "display_phone": "(512) 992-1357",
+            "distance": 61.52904632890957
+        },
+        {
+            "id": "gDNnMh-SFioZ7m3oCihppQ",
+            "alias": "east-1st-grocery-austin",
+            "name": "East 1st Grocery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M6kbMEgz23gFHJ0Ahhl3KQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/east-1st-grocery-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.25709,
+                "longitude": -97.72487
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1811 E Cesar Chavez St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1811 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15124770988",
+            "display_phone": "(512) 477-0988",
+            "distance": 328.64880888999926
+        }
+    ],
+    "total": 4,
+    "region": {
+        "center": {
+            "longitude": -97.721698,
+            "latitude": 30.256128
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "businesses": [
+        {
+            "id": "POeeSCxZeWnz-o3V1QdcXw",
+            "alias": "jump-party-usa-austin-4",
+            "name": "Jump Party USA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yGWfimbxRCkQNM_bsdr_pg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jump-party-usa-austin-4?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "trampoline",
+                    "title": "Trampoline Parks"
+                },
+                {
+                    "alias": "recreation",
+                    "title": "Recreation Centers"
+                },
+                {
+                    "alias": "eventplanning",
+                    "title": "Party & Event Planning"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.3739547729492,
+                "longitude": -97.6888275146484
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10601 N Lamar Blvd",
+                "address2": "Ste D",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10601 N Lamar Blvd",
+                    "Ste D",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15128386200",
+            "display_phone": "(512) 838-6200",
+            "distance": 466.945594226266
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.69236,
+            "latitude": 30.371202
+        }
+    }
+}

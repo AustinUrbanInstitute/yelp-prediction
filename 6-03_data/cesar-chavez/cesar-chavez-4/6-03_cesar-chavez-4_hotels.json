@@ -1,0 +1,85 @@
+{
+    "businesses": [
+        {
+            "id": "FajvnPYI8eVkr4tJaXlT8Q",
+            "alias": "willow-house-austin",
+            "name": "Willow House",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/willow-house-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "guesthouses",
+                    "title": "Guest Houses"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.255234,
+                "longitude": -97.721302
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2114 Willow St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2114 Willow St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 433.9459542986113
+        },
+        {
+            "id": "rcdxl0I4Ne7Mc0hNGaHbgg",
+            "alias": "pedernales-lofts-austin",
+            "name": "Pedernales Lofts",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pedernales-lofts-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "guesthouses",
+                    "title": "Guest Houses"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.25924,
+                "longitude": -97.7159099
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2401 E 6th St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2401 E 6th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15124959190",
+            "display_phone": "(512) 495-9190",
+            "distance": 526.5228748017978
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.716892,
+            "latitude": 30.254386
+        }
+    }
+}

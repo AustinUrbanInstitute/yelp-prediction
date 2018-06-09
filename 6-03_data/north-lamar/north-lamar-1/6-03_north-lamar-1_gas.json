@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "id": "ZUAP5wFUGOAZ7BYcaA59_g",
+            "alias": "hub-cap-annie-austin",
+            "name": "Hub Cap Annie",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jJ-pFsVgzW59RppQtWErCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hub-cap-annie-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 34,
+            "categories": [
+                {
+                    "alias": "tires",
+                    "title": "Tires"
+                },
+                {
+                    "alias": "wheelrimrepair",
+                    "title": "Wheel & Rim Repair"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.370931,
+                "longitude": -97.693038
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10104 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10104 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15128370065",
+            "display_phone": "(512) 837-0065",
+            "distance": 446.7650498995988
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.694642,
+            "latitude": 30.367159
+        }
+    }
+}

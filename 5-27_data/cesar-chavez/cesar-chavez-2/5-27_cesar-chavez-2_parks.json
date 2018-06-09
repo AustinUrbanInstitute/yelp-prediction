@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "zrA8FSSALtR0lw2sH8P9dQ",
+            "alias": "plaza-saltillo-austin",
+            "name": "Plaza Saltillo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/csv-CPw0fEf83Tgfydaf1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plaza-saltillo-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "parks",
+                    "title": "Parks"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.2619933024971,
+                "longitude": -97.7274477626281
+            },
+            "transactions": [],
+            "location": {
+                "address1": "412 Comal St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "412 Comal St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15129746797",
+            "display_phone": "(512) 974-6797",
+            "distance": 476.4426736848659
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.726584,
+            "latitude": 30.257774
+        }
+    }
+}

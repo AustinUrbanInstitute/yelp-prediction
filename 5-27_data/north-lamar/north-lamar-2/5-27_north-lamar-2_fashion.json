@@ -1,0 +1,125 @@
+{
+    "businesses": [
+        {
+            "id": "lvup3w89eQQD51cueRdrZw",
+            "alias": "rainbow-austin-4",
+            "name": "Rainbow",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rainbow-austin-4?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 30.3665084838867,
+                "longitude": -97.696533203125
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9616 N Lamar Blvd",
+                "address2": "Ste 117",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9616 N Lamar Blvd",
+                    "Ste 117",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15128213337",
+            "display_phone": "(512) 821-3337",
+            "distance": 672.677679818314
+        },
+        {
+            "id": "h3fUx7brWAOaZPCG2SeFYQ",
+            "alias": "family-dollar-stores-austin-7",
+            "name": "Family Dollar Stores",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/family-dollar-stores-austin-7?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.36625,
+                "longitude": -97.69459
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "9717 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9717 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15128337747",
+            "display_phone": "(512) 833-7747",
+            "distance": 512.1763987036439
+        },
+        {
+            "id": "nPtohvcMzydHKYxBvyGedw",
+            "alias": "dollar-general-store-austin-8",
+            "name": "Dollar General Store",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oJLLwmkbICgp77dO-B4btg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dollar-general-store-austin-8?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 30.36679,
+                "longitude": -97.69562
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9616 N Lamar Blvd",
+                "address2": "Ste 120",
+                "address3": null,
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9616 N Lamar Blvd",
+                    "Ste 120",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15123390519",
+            "display_phone": "(512) 339-0519",
+            "distance": 672.677679818314
+        }
+    ],
+    "total": 3,
+    "region": {
+        "center": {
+            "longitude": -97.69236,
+            "latitude": 30.371202
+        }
+    }
+}

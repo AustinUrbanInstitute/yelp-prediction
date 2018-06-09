@@ -1,0 +1,87 @@
+{
+    "businesses": [
+        {
+            "id": "tXkYZcIziQqyFT1iMQ1xww",
+            "alias": "heywood-hotel-austin",
+            "name": "Heywood Hotel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qsj4v7eW_-13Jmx6Ome1vw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/heywood-hotel-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2579898834229,
+                "longitude": -97.7279357910156
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1609 E Cesar Chavez St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1609 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15122715522",
+            "display_phone": "(512) 271-5522",
+            "distance": 132.2662750061601
+        },
+        {
+            "id": "ro-XmYiNz1DW0TgbWBJolQ",
+            "alias": "guild-east-6th-at-the-arnold-austin-2",
+            "name": "Guild East 6th at The Arnold",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/axsEFzbdXuvriX9QQ0ojhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/guild-east-6th-at-the-arnold-austin-2?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2625,
+                "longitude": -97.72514
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1621 E 6th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1621 E 6th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15126237480",
+            "display_phone": "(512) 623-7480",
+            "distance": 516.0933452354617
+        }
+    ],
+    "total": 2,
+    "region": {
+        "center": {
+            "longitude": -97.726584,
+            "latitude": 30.257774
+        }
+    }
+}

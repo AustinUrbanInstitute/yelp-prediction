@@ -1,0 +1,138 @@
+{
+    "businesses": [
+        {
+            "id": "88fXfjmS45nXl3tgVxhFMA",
+            "alias": "angkor-tire-and-auto-austin",
+            "name": "Angkor Tire & Auto",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-cj1YXXdWmXMBCcIbEAO3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/angkor-tire-and-auto-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "tires",
+                    "title": "Tires"
+                },
+                {
+                    "alias": "autorepair",
+                    "title": "Auto Repair"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.3733990375352,
+                "longitude": -97.6916229352355
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10410 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10410 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15122438215",
+            "display_phone": "(512) 243-8215",
+            "distance": 254.32645413658844
+        },
+        {
+            "id": "ZUAP5wFUGOAZ7BYcaA59_g",
+            "alias": "hub-cap-annie-austin",
+            "name": "Hub Cap Annie",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jJ-pFsVgzW59RppQtWErCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hub-cap-annie-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 34,
+            "categories": [
+                {
+                    "alias": "tires",
+                    "title": "Tires"
+                },
+                {
+                    "alias": "wheelrimrepair",
+                    "title": "Wheel & Rim Repair"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.370931,
+                "longitude": -97.693038
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10104 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10104 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15128370065",
+            "display_phone": "(512) 837-0065",
+            "distance": 71.6854033954464
+        },
+        {
+            "id": "iRkFdLYre6Z3aep82U6_1Q",
+            "alias": "abees-hi-tech-automotive-service-austin",
+            "name": "Abee's Hi-Tech Automotive Service",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ssJPlKWpe6oC3aIHutsV6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/abees-hi-tech-automotive-service-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "autorepair",
+                    "title": "Auto Repair"
+                },
+                {
+                    "alias": "oilchange",
+                    "title": "Oil Change Stations"
+                },
+                {
+                    "alias": "tires",
+                    "title": "Tires"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.37544,
+                "longitude": -97.6912
+            },
+            "transactions": [],
+            "location": {
+                "address1": "811 McPhaul St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78758",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "811 McPhaul St",
+                    "Austin, TX 78758"
+                ]
+            },
+            "phone": "+15128371987",
+            "display_phone": "(512) 837-1987",
+            "distance": 472.11638202809803
+        }
+    ],
+    "total": 3,
+    "region": {
+        "center": {
+            "longitude": -97.69236,
+            "latitude": 30.371202
+        }
+    }
+}

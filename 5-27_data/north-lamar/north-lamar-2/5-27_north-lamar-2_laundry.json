@@ -1,0 +1,49 @@
+{
+    "businesses": [
+        {
+            "id": "fS-i_CTngZbrc1H0lunz3w",
+            "alias": "spincycle-coin-laundry-austin-5",
+            "name": "Spincycle Coin Laundry",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-bvURuOwMogqW6AQtHjvyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spincycle-coin-laundry-austin-5?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "laundromat",
+                    "title": "Laundromat"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.36625,
+                "longitude": -97.69459
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9717 N Lamar Blvd",
+                "address2": "Ste A4B",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9717 N Lamar Blvd",
+                    "Ste A4B",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15123398554",
+            "display_phone": "(512) 339-8554",
+            "distance": 578.7853683347174
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.69236,
+            "latitude": 30.371202
+        }
+    }
+}

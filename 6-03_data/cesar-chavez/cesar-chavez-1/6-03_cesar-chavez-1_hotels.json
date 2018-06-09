@@ -1,0 +1,203 @@
+{
+    "businesses": [
+        {
+            "id": "tXkYZcIziQqyFT1iMQ1xww",
+            "alias": "heywood-hotel-austin",
+            "name": "Heywood Hotel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qsj4v7eW_-13Jmx6Ome1vw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/heywood-hotel-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2579898834229,
+                "longitude": -97.7279357910156
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1609 E Cesar Chavez St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1609 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15122715522",
+            "display_phone": "(512) 271-5522",
+            "distance": 367.68420805622134
+        },
+        {
+            "id": "ilD-sEGD4-2BRQV2KWRq8g",
+            "alias": "guild-east-6th-austin-2",
+            "name": "Guild East 6th",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/15sblkNgeKQEZdLYv5KaIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/guild-east-6th-austin-2?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2646177,
+                "longitude": -97.7319159
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 E 5th St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1000 E 5th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15126237480",
+            "display_phone": "(512) 623-7480",
+            "distance": 577.0842670626598
+        },
+        {
+            "id": "3X58kgoVinxmlkqtPQvduQ",
+            "alias": "hotel-vegas-austin",
+            "name": "Hotel Vegas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KZPeEyysrW1eVeCKgUsRXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hotel-vegas-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 76,
+            "categories": [
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.26352,
+                "longitude": -97.72711
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1502 E 6th St",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1502 E 6th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 598.4675074626556
+        },
+        {
+            "id": "ov-Vum3AY5f9uGL8Yo64Qw",
+            "alias": "native-hostel-austin-2",
+            "name": "Native Hostel",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vBur7Xh5rhBBYDfZqGkIrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/native-hostel-austin-2?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "hostels",
+                    "title": "Hostels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 30.26355,
+                "longitude": -97.73472
+            },
+            "transactions": [],
+            "location": {
+                "address1": "807 E 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "807 E 4th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15125519947",
+            "display_phone": "(512) 551-9947",
+            "distance": 548.8869021935807
+        },
+        {
+            "id": "OCOlKphovL9Q6w6hOBYZDg",
+            "alias": "hotel-vegas-concession-stand-austin",
+            "name": "Hotel Vegas Concession Stand",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hotel-vegas-concession-stand-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.26344,
+                "longitude": -97.72742
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1500 E 6th St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1500 E 6th St",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+16466349973",
+            "display_phone": "(646) 634-9973",
+            "distance": 593.742345342039
+        }
+    ],
+    "total": 5,
+    "region": {
+        "center": {
+            "longitude": -97.731374,
+            "latitude": 30.259449
+        }
+    }
+}

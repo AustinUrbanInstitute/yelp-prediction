@@ -1,0 +1,49 @@
+{
+    "businesses": [
+        {
+            "id": "7Dc4UsnCTAa8N_iv1AuDyA",
+            "alias": "intown-suites-austin-2",
+            "name": "InTown Suites",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P842w6NmSYYrsP7MWInbQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/intown-suites-austin-2?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 30.3691387176514,
+                "longitude": -97.6926116943359
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "9909 N Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78753",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9909 N Lamar Blvd",
+                    "Austin, TX 78753"
+                ]
+            },
+            "phone": "+15127193993",
+            "display_phone": "(512) 719-3993",
+            "distance": 227.14930491797313
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.69236,
+            "latitude": 30.371202
+        }
+    }
+}

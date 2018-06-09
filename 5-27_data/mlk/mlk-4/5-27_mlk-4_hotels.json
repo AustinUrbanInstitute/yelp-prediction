@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "J-YykF63_m7cp84fGE986A",
+            "alias": "staylo-austin",
+            "name": "StayLo",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KLfhU75KhLYxW42RT5rYaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/staylo-austin?adjust_creative=vBM0fCwVkc7ZN4864m4apw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vBM0fCwVkc7ZN4864m4apw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 30.2813660189416,
+                "longitude": -97.711084677481
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2823 E Martin Luther King Junior Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "zip_code": "78702",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2823 E Martin Luther King Junior Blvd",
+                    "Austin, TX 78702"
+                ]
+            },
+            "phone": "+15128209022",
+            "display_phone": "(512) 820-9022",
+            "distance": 274.9672989674995
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -97.708356,
+            "latitude": 30.28178
+        }
+    }
+}
